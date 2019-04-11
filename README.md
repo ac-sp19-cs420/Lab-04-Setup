@@ -1,5 +1,5 @@
 # Lab 4: PThread Programming 
-### 50 Points
+### 100 Points
 
 **Objective:** Begin learning how to Use PThreads 
 
